@@ -1,5 +1,8 @@
 # Animalese Audio Generator
 
+## Source
+The original repo I created for this code lives [here](https://github.com/equalo-official/animalese-generator) as a part of a project for my youtube channel. Argparsing was added by [mkuw](https://github.com/mkuw).
+
 ## General info
 This project allows you to generate audio from text in the style of animalese from the Animal Crossing games. 
 
@@ -20,7 +23,7 @@ $ ./animalese.py the quick brown fox jumps over the lazy dog --pitch high --out 
 Project is created with:
 * pydub
 
-## Installing required dependencies
+## Installing required dependencies (Mac)
 ```
 $ pip install pydub
 ```
